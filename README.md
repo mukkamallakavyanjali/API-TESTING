@@ -2,9 +2,9 @@ API TESTING WITH POSTMEN
 CODTECH Internship - Task-2
 "Company":CODTECH IT SOLUTIONS
 
-" Intern Name":MADARABOYINA HEMA LATHA
+" Intern Name":Mukkamalla Venkata Kavyanjali
 
-"Intern ID":CTIS2560
+"Intern ID":CTISAN32
 
 "Domain": Software Testing
 
@@ -74,3 +74,4 @@ The response contains the newly generated ID.
 These screenshots show successful data retrieval and data creation.
 The task objectives of API testing using Postman are successfully completed.
 output
+![Image](https://github.com/user-attachments/assets/57b9ca7f-7f0e-4169-9fcd-a43be18f1a7b)
